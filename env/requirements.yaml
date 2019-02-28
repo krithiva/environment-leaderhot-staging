@@ -9,7 +9,7 @@ dependencies:
   version: 2.3.89
 - name: node-http-demo1
   repository: http://jenkins-x-chartmuseum:8080
-  version: 0.0.17
+  version: 0.0.28
 - name: nodejs-bdd-testing
   repository: http://jenkins-x-chartmuseum:8080
   version: 0.0.3
